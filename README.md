@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋 
 
 ## About Me 👀
-I'm a passionate security analyst and a third-year student studying cybersecurity. My main focus is on web application penetration testing, where I leverage my skills to identify and mitigate vulnerabilities in web applications. Additionally, I have experience working with Python programming, which allows me to automate tasks and develop tools to enhance security practices.
+I'm a security analyst and My main focus is on web application penetration testing, where I leverage my skills to identify and mitigate vulnerabilities in web applications. Additionally, I have experience working with Python programming, which allows me to automate tasks and develop tools to enhance security practices.
 
 ## Areas of Expertise 🚀
 - **Web Application Penetration Testing:** I specialize in assessing the security of web applications, identifying vulnerabilities, and providing recommendations for their remediation.
@@ -16,7 +16,7 @@ Here are a few notable projects I've worked on:
 
 ## Education 🎓
 - BTECH CSE Cybersecurity,B. S. Abdur Rahman Crescent Institute Of Science And Technology,2020-2024
-- Relevant coursework: Network Security, Web Application Security, Cryptography, Incident Response
+- Relevant coursework: CEH, Network Security, Web Application Security, Cryptography, Incident Response
 
 ## Contact Me ☎️
 Feel free to reach out to me through the following channels:
