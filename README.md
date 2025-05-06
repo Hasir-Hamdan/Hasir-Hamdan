@@ -1,28 +1,72 @@
-# Welcome to My GitHub Profile! 👋 
+<!-- GitHub Profile README.md -->
 
-## About Me 👀
-I'm a security analyst and My main focus is on web application penetration testing, where I leverage my skills to identify and mitigate vulnerabilities in web applications. Additionally, I have experience working with Python programming, which allows me to automate tasks and develop tools to enhance security practices.
+<h1 align="center">👋 Hi, I'm Hasir Hamdan</h1>
 
-## Areas of Expertise 🚀
-- **Web Application Penetration Testing:** I specialize in assessing the security of web applications, identifying vulnerabilities, and providing recommendations for their remediation.
-- **Cybersecurity:** With my ongoing studies in cybersecurity, I constantly stay updated on the latest threats and security practices, allowing me to effectively address emerging challenges.
-- **Python Programming:** I have a strong command of Python and utilize it to develop scripts, tools, and automation solutions to improve security processes.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Application+Security+Engineer;Bug+Bounty+Hunter;CEH;Cybersecurity+Enthusiast;Always+Learning...&center=true&width=500&height=25">
+</p>
 
-## Projects 📚
-Here are a few notable projects I've worked on:
+---
 
-**Food-delivery-website (KitchenCourier):** I developed a WordPress-based website called KitchenCourier, which serves as a food delivery platform. The website incorporates features like online ordering, menu management, customer reviews, and secure payment processing. It emphasizes a user-friendly interface and adheres to security best practices to ensure a safe and seamless experience for both customers and restaurant owners.
+## 👨‍💻 About Me
 
+- 🛡️ **1+ years of experience** in offensive security
+- 🔐 **Application Security Engineer at Teceze**
+- 📚 CEH | CAP | APIsec | Pursuing **OSCP**
+- 🧰 Freelance VAPT projects (Web, API, Mobile)
+- ✍️ Medium blog author sharing tools & real-world research
 
-## Education 🎓
-- BTECH CSE Cybersecurity,B. S. Abdur Rahman Crescent Institute Of Science And Technology,2020-2024
-- Relevant coursework: CEH, Network Security, Web Application Security, Cryptography, Incident Response
+---
 
-## Contact Me ☎️
-Feel free to reach out to me through the following channels:
-- Email: hasirhamdan77@gmail.com
-- LinkedIn: https://linkedin.com/in/hasirhamdan
+## 🏅 Vulnerability Acknowledgments
 
-I'm always open to collaborations, discussions, and sharing knowledge within the cybersecurity community. Don't hesitate to get in touch!
+Recognized by **20+ companies**, including:
 
-Thank you for visiting my GitHub profile, and I hope you find my projects and contributions valuable.
+`Ferrari`, `Kimi AI`, `Cyso`, `Emsisoft`, `LuminPDF`, *and more*
+
+---
+
+## ✍️ Featured Blogs on Medium
+
+- 🧩 [**Bug Hunting: An Extension that Makes the Job Easier**](https://medium.com/@hasirhamdan77/bug-hunting-an-extension-that-makes-the-job-easier-e19b7f9aeab5)  
+  → How a simple browser extension streamlined the vulnerability discovery process.
+
+- 💡 [**How One Accidental Find Led to Full App Security Testing**](https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb)  
+  → A discovery that turned into an in-depth security engagement.
+
+---
+
+## 🧰 Tools & Technologies
+
+```bash
+Burp Suite   Nmap       Metasploit
+Wireshark    Nessus     Qualys
+Python       Bash       SentinelOne
+Microsoft Sentinel   Defender   Azure
+```
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://github.com/Hasir-Hamdan/Hasir-Hamdan/blob/main/CEH-Practical-Logo.jpg" alt="CEH Logo" height="100"/>
+  <img src="https://github.com/Hasir-Hamdan/Hasir-Hamdan/blob/main/Apisec.png" alt="Logo" height="100"/>
+  <img src="https://github.com/Hasir-Hamdan/Hasir-Hamdan/blob/main/CAP.png" alt="Logo" height="100"/>
+</p>
+
+---
+## 🧠 TryHackMe 
+
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/HASIR.HAMDAN.png" alt="Your Image Badge" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasirhamdan/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@hasirhamdan77"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:hasirhamdanwork@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
